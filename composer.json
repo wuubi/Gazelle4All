@@ -1,5 +1,5 @@
 {
-  "name": "apollorip/gazelle",
+  "name": "wuubi/gazelle",
   "description": "Web framework for private BitTorrent trackers using Ocelot",
   "type": "project",
   "license": "Unlicense",

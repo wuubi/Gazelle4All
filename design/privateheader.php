@@ -308,10 +308,6 @@ if (check_perms('site_send_unlimited_invites')) {
                         Format::add_class($PageID, ['index'], 'active', true)?>>
                         <a href="index.php">Home</a>
                     </li>
-                    <li id="nav_torrents"<?=
-                        Format::add_class($PageID, ['torrents', false, false], 'active', true)?>>
-                        <a href="torrents.php">Torrents</a>
-                    </li>
                     <li id="nav_collages"<?=
                         Format::add_class($PageID, ['collages'], 'active', true)?>>
                         <a href="collages.php">Collages</a>
